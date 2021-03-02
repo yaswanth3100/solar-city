@@ -51,7 +51,7 @@ const handleRightClick=()=>{
             let the magic begin..with silicon and sunshine!
           </h1>
           <p>
-            G2V is a team of Energy Engineers specializing in powering your building with Clean and Uninterrupted power.​
+            Unicorn is a team of Energy Engineers specializing in powering your building with Clean and Uninterrupted power.​
           </p>
           <img  className="scrolldown" src="https://media4.giphy.com/media/Wtg8Bmgul1Qxc0otod/200.webp?cid=ecf05e4714g8whrrd2wb4reagcolstxurt1vvzn9lu3hdhnm&rid=200.webp" alt=""  />
         </div>
@@ -143,10 +143,10 @@ We customize your solution. Just For You.
         </div>
       </div>
       <footer className="foot">
-        <h3>G2V Solar</h3>
-        <p>inc@g2vsolar.com</p>
-        <p>+91 93846 11104 | +91 93846 11106</p>
-        <p>G2V Solar Solutions Pvt. Ltd</p>
+        <h3>Unicorn Solar</h3>
+        <p>random@mail.com</p>
+        <p>+91 93123 2345 | +91 97777 7777</p>
+        <p>Unicorn Solar Solutions Pvt. Ltd</p>
         <p>Visakhapatnam</p>
       </footer>
     </div>
